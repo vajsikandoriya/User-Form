@@ -46,7 +46,7 @@ const UserLogin = () => {
     };
     return (
         <div className="user-data-main">
-            <h2>User Login</h2>
+            <h2>User Form</h2>
             <div className="user-form">
                 <form onSubmit={handleSubmit}>
                     <div className="user-form-inner">
